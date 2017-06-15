@@ -1,0 +1,15 @@
+{
+	"4480318773": {
+		"SeatSet": {
+			"2646170001": {
+				"SubscriptionId": 2646170001,
+				"SeatState": "ENTITLE_PENDING"
+			}
+		},
+		"SubscriberId": 4480318773,
+		"SubscriberState": "PENDING",
+		"CustomerId": 2282445530,
+		"UserId": "CYFHi47@mailinator.com",
+		"githubId": ""
+	}
+}
