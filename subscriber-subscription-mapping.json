@@ -42,11 +42,11 @@
 		"SeatSet": {
 			"3206854552": {
 				"SubscriptionId": 3206854552,
-				"SeatState": "ENTITLE_PENDING"
+				"SeatState": "ASSIGNED"
 			}
 		},
 		"SubscriberId": 6785804274,
-		"SubscriberState": "PENDING",
+		"SubscriberState": "ACTIVE",
 		"CustomerId": 2831173010,
 		"UserId": "fJAfj818@mailinator.com",
 		"githubId": ""
