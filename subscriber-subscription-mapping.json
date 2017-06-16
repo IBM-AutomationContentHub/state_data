@@ -50,5 +50,18 @@
 		"CustomerId": 2831173010,
 		"UserId": "fJAfj818@mailinator.com",
 		"githubId": ""
+	},
+	"5037854546": {
+		"SeatSet": {
+			"318573635": {
+				"SubscriptionId": 318573635,
+				"SeatState": "ENTITLE_PENDING"
+			}
+		},
+		"SubscriberId": 5037854546,
+		"SubscriberState": "PENDING",
+		"CustomerId": 6481005273,
+		"UserId": "jTOck261@mailinator.com",
+		"githubId": ""
 	}
 }
