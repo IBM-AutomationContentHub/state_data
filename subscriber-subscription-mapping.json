@@ -16,11 +16,11 @@
 		"SeatSet": {
 			"318573635": {
 				"SubscriptionId": 318573635,
-				"SeatState": "ENTITLE_PENDING"
+				"SeatState": "ASSIGNED"
 			}
 		},
 		"SubscriberId": 1251705546,
-		"SubscriberState": "PENDING",
+		"SubscriberState": "ACTIVE",
 		"CustomerId": 6481005273,
 		"UserId": "iosox637@mailinator.com",
 		"githubId": ""
